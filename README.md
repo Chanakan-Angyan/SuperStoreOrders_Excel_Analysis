@@ -117,4 +117,4 @@ Aspiring **Data Analyst** with an interest in data analysis, business intelligen
 
 **GitHub:** https://github.com/Chanakan-Angyan
 
-**LinkedIn:** linkedin.com/in/chanakan-angyan-a2596742a
+**LinkedIn:** [linkedin.com/in/chanakan-angyan](https://www.linkedin.com/in/chanakan-angyan-a2596742a/)
