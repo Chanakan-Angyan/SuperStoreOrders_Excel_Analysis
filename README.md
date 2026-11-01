@@ -8,7 +8,7 @@ The analysis focuses on sales performance, profitability, product performance, r
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](dashboard.png)
+![Sales Performance Dashboard](Dashboard.png)
 
 ## Business Objectives
 
